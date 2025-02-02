@@ -1,4 +1,4 @@
-\section*{Code pour reproduire les résultats de l'article \textit{Stronger Generalization Bounds for Deep Nets via a Compression Approach}}
+###Code pour reproduire les résultats de l'article \textit{Stronger Generalization Bounds for Deep Nets via a Compression Approach
 par Sanjeev Arora, Rong Ge, Behnam Neyshabur, Yi Zhang
 
 Dans le fichier \textbf{étude sur VGG-19}, nous analysons les propriétés de résistance au bruit sur ce modèle. \\
